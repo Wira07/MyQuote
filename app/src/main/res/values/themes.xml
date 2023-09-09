@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyQuote" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Warna ActionBar -->
+        <item name="colorPrimary">#FF5722</item>
+        <!-- Warna latar belakang ActionBar -->
+        <item name="colorPrimaryDark">#E64A19</item>
+    </style>
+
+    <style name="Theme.MyQuote" parent="Base.Theme.MyQuote" />
+</resources>
